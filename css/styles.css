@@ -65,22 +65,15 @@ footer {
     color: #999999;
     text-align: center;
     padding: 1rem 0;
-    position: fixed;
+
     width: 100%;
     bottom: 0;
-}
-
-.orespawn-link {
-    display: none;
 }
 
 .social-icons {
     display: flex;
     justify-content: center;
     gap: 20px;
-    position: fixed;
-    bottom: 20px;
-    width: 100%;
     padding: 10px 0;
 }
 
@@ -93,4 +86,12 @@ footer {
 
 .social-icons a:hover {
     color: #4b15ca;
+}
+
+.home-contents {
+    width: 60%;
+}
+
+h2 {
+    color:rgb(228, 223, 223);
 }
